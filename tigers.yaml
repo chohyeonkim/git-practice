@@ -1,9 +1,9 @@
 team: conflict-2
 
 
-manager: Brenda
+manager: Thanos
 
-coach: conflict-2
+coach: Ronan
 
 
 members:
@@ -13,3 +13,5 @@ members:
 - George
 - Tyler
 - Kim
+- Gamora
+- Nebula
